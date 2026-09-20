@@ -42,8 +42,8 @@
     </build>
     <distributionManagement>
         <repository>
-            <id>nexus-releases</id> <!-- Match this ID with the settings.xml -->
-            <url>http://100.54.217.39:8081/repository/maven-releases//</url>
+            <id>nexus Repository</id> <!-- Match this ID with the settings.xml -->
+            <url>http://100.54.217.39:8081/repository/maven-public//</url>
         </repository>
     </distributionManagement>
 </project>
